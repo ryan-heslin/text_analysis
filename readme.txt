@@ -1,0 +1,1 @@
+Analysis and visualization of text contained in U.S. presidential party platforms from 1968 to 2020 using the tidytext package. Silge and Robinson's Tidy Text Mining with R was an invaluable resource.
