@@ -14,3 +14,7 @@ rvest
 broom
 lubridate
 topicmodels
+usethis
+devtools
+my.templates
+rlang
